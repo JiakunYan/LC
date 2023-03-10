@@ -1,0 +1,4 @@
+<map id="LCI_memory_deregister" name="LCI_memory_deregister">
+<area shape="rect" id="node1" title="Deregister a memory region from a device." alt="" coords="177,5,355,32"/>
+<area shape="rect" id="node2" href="$d4/d5c/group___l_c_i_memory.html#ga6f59fc5620fc215337c1b43ea56cd088" title="free a long buffer." alt="" coords="5,5,129,32"/>
+</map>

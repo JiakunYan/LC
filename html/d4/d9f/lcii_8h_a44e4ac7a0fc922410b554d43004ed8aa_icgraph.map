@@ -1,0 +1,5 @@
+<map id="LCII_env_init" name="LCII_env_init">
+<area shape="rect" id="node1" title=" " alt="" coords="261,5,367,32"/>
+<area shape="rect" id="node2" href="$d1/d7f/group___l_c_i___s_e_t_u_p.html#ga5a8bbe90590e08ece1620fc48164ab9e" title="Initialize the LCI runtime. No LCI calls are allowed to be called before LCI_initialize except LCI_in..." alt="" coords="108,5,213,32"/>
+<area shape="rect" id="node3" href="$d3/d8b/buffer_8c.html#a7a29781a20c5dd4153c3c1cecf0ff328" title=" " alt="" coords="5,5,60,32"/>
+</map>

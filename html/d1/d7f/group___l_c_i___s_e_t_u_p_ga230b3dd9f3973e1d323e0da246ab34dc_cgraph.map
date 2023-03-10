@@ -1,0 +1,4 @@
+<map id="LCI_barrier" name="LCI_barrier">
+<area shape="rect" id="node1" title="Invoke a barrier across all LCI processes in the same job. The call will block the calling thread unt..." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node2" href="$da/df1/pmi__wrapper_8c.html#ad69ce2aeaf82285a8f01d2915d0ab2ad" title=" " alt="" coords="145,5,269,32"/>
+</map>
