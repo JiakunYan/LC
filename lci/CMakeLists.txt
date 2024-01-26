@@ -24,7 +24,8 @@ target_sources_relative(
   runtime/endpoint.c
   runtime/completion/amhandler.c
   runtime/rcache/lcii_rcache.c
-  runtime/completion/sync_flag.c)
+  runtime/completion/sync_flag.c
+  tests/internal_test.c)
 
 if(LCI_USE_SERVER_OFI)
   target_sources_relative(LCI PRIVATE backend/ofi/server_ofi.c)

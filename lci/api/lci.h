@@ -1488,6 +1488,9 @@ LCI_error_t LCIX_allreducel(LCI_endpoint_t ep, LCI_lbuffer_t buffer,
                             LCI_op_t op, LCI_tag_t tag, LCI_comp_t completion,
                             void* user_context, LCIX_collective_t* coll);
 
+LCI_API
+LCI_error_t LCIX_internal_test(int argc, char *argv[]);
+
 #ifdef __cplusplus
 }
 #endif
