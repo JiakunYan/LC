@@ -34,6 +34,7 @@ LCI_error_t LCI_initialize()
   LCI_queue_create(LCI_UR_DEVICE, &LCI_UR_CQ);
   LCI_plist_t plist;
   LCI_plist_create(&plist);
+  LCI_plist_set_default_comp(plist, LCI_UR_CQ);
   LCI_endpoint_init(&LCI_UR_ENDPOINT, LCI_UR_DEVICE, plist);
   LCI_plist_free(&plist);
   LCI_DBG_Warn(
